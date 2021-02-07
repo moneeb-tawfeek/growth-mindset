@@ -4,13 +4,20 @@
  
  
 
+## 102 reading notes 
+|my labs   |      links                |    
+|:--------:|:-------------------------:|
+| lab02a   |[link](102/102/lab02amd)   |
+| read 02a |[link](102/102/read02a.md) |
+| read 03a |[link](102/102/read03a.md) |   
+| read 04  |[link](102/102/read 04a.md)|
+| read 05  | [link](102/102/read05.md) |
+| read 06  |[link](102/102/read06.md)  |
+| read02b  |[link](102/102/read02b.md) |
+ 
+
+## 201 reading notes 
 
 |my labs   |      links               |    
 |:--------:|:------------------------:|
-| lab02a   |  [link](lab02a.md)       |
-| read 02a | [link](read02a.md)       |
-| read 03a |  [link](read03a.md)      |   
-| read 04  |   [link](read 04a.md)    |
-| read 05  | [link](read05.md)        |
-| read 06  |[link](read06.md)         |
-| read02b  |[link](read02b.md)         |
+|read 01   | [link](201/read01.md)    |
