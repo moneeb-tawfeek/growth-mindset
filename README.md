@@ -21,3 +21,4 @@
 |my labs   |      links               |    
 |:--------:|:------------------------:|
 |read 01   | [link](201/read01.md)    |
+|read 02   | [link](201/read02.md)    |
