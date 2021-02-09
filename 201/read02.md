@@ -3,7 +3,7 @@ b to make it bold
 i to make it italic 
 p for paragraphs
 >On the 4<sup>th</sup> for Superscript
-he amount of CO<sub>2</sub> for Subscript
+ amount of CO<sub>2</sub> for Subscript
 CSS treats each HTML e XX lement as if it appears inside
 its own box and uses rules to indicate how that element should look.
 
