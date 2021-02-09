@@ -1,8 +1,8 @@
 h1 to h 6 to the headding 
 b to make it bold 
 i to make it italic 
-p for paragraphs
->On the 4<sup>th</sup> for Superscript
+p for paragraph
+<sup>th</sup> for Superscript
  amount of CO<sub>2</sub> for Subscript
 CSS treats each HTML e XX lement as if it appears inside
 its own box and uses rules to indicate how that element should look.
