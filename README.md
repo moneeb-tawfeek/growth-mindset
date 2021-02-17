@@ -26,3 +26,6 @@
 |read 04   | [link](201/read04.md)    |
 |read 05   | [link](201/read05.md)    |
 |read 06   | [link](201/read06.md)    |
+|read 07   | [link](201/read07.md)    |
+|read 08   | [link](201/read08.md)    |
+|read 09   | [link](201/read09.md)    |
